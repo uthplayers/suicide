@@ -1,8 +1,7 @@
-<!DOCTYPE html>
-<html>
+
+<html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Suicide</title>
 </head>
 <body>
 	<H1>Suicide</H1>
@@ -26,8 +25,7 @@
 <li>Feeling worthless or rejected:</li>
 
  
-		</ul>
-	</section>
+		</ul
 	<section>
 		<p>
 			As I come to the end of my speech, I would like to elucidate different way in which suicide can be prevented or you can stop yourself from coming suicide 
